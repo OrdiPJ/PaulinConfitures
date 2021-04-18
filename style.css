@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: red;
+}
+
+#carte{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    color: blue;
+}
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: red;
+	text-decoration: none;
+	background-color: white;
+	padding: 5px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: white;
+	background-color: red;
+	transition: 0.3s all;
+}
+
+footer{
+	background-color: gray;
+}
